@@ -3,6 +3,8 @@
 <!--
 **atikvibs1326/atikvibs1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### [Connect with me 💬](https://atikvibs1326.github.io/Portfolio-Atikraja.github.io/) 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
