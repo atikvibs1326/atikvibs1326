@@ -1,8 +1,8 @@
 
  [Connect with me 💬](https://atikvibs1326.github.io/Portfolio-Atikraja.github.io/)
-- 🔭 I’m currently working on JAVA ,DataStructures and WebDevelopment and React native 
-- 🌱 I’m currently learning ...javascript,webdevlopment,and data structures
-- 👯 I’m looking to collaborate on ... java and devlopment
+- 🔭 I’m currently working on Spring, SpringBoot ,Hibernate and WebDevelopment. 
+- 🌱 I’m currently learning ...Spring,Struts,and data structures
+- 👯 I’m looking to collaborate on ... Java Development
 - 💬 Ask me about ...data-structures and algorithms ,application development,ideas and startups
 - 📫 How to reach me: ...khochikaratik13@gmail.com
 - 😄 Pronouns: ...atik
