@@ -6,6 +6,7 @@
 - 💬 Ask me about ...data-structures and algorithms ,application development,ideas and startups
 - 📫 How to reach me: ...khochikaratik13@gmail.com
 - 😄 Pronouns: ...atik
+- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 <div>
  
