@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...Spring,Struts,and data structures
 - 👯 I’m looking to collaborate on ... Java Development
 - 💬 Ask me about ...data-structures and algorithms ,application development,ideas and startups
-- 📫 How to reach me: ...khochikaratik13@gmail.com
+- 📫 How to reach me: ...atikrajakhochikar@gmail.com
 - 😄 Pronouns: ...atik
 - ![Visits Badge](https://badges.pufler.dev/visits/atikvibs1326/atikvibs1326)
 
