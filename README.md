@@ -9,6 +9,9 @@
   
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=atikvibs1326.oca-082-prep)
 
+- ![Hits](https://count.getloli.com/get/@atikvibs1326.yourrepo?theme=rule34)
+
+
 <div>
  
  
