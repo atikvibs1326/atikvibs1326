@@ -6,7 +6,7 @@
 - 💬 Ask me about ...data-structures and algorithms ,application development,ideas and startups
 - 📫 How to reach me: ... atikrajakhochikar@gmail.com
 - 😄 Pronouns: ...atik
-- ![Visits Badge](https://badges.pufler.dev/visits/atikvibs1326/atikvibs1326)
+-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=atikvibs1326.oca-082-prep)
 
 <div>
  
